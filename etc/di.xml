@@ -2,7 +2,11 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <type name="Magento\Framework\Locale\Format">
-        <plugin disabled="false" name="Codepeak_Currency_Plugin_Magento_Framework_Locale\Format" sortOrder="10"
+        <plugin disabled="false" name="Codepeak_Currency_Plugin_Magento_Framework_Locale_Format" sortOrder="10"
                 type="Codepeak\Currency\Plugin\Magento\Framework\Locale\Format"/>
+    </type>
+    <type name="Magento\Framework\Pricing\Render\Amount">
+        <plugin disabled="false" name="Codepeak_Currency_Plugin_Magento_Framework_Pricing_Render_Amount" sortOrder="10"
+                type="Codepeak\Currency\Plugin\Magento\Framework\Pricing\Render\Amount"/>
     </type>
 </config>
