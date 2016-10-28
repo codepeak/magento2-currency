@@ -1,6 +1,6 @@
 # Magento 2 Currency module by Codepeak
 
-This plugin will remove the 00-decimals on product page and product listings.
+This plugin will remove the 00-decimals on product page and product listings. Please note that this is still at **BETA**.
 
 ## How to install
 

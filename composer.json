@@ -1,5 +1,5 @@
 {
-  "name": "codepeak/currency",
+  "name": "codepeak/magento2-currency",
   "description": "Remove 00-decimals on product prices",
   "authors": [
     {
