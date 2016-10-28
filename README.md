@@ -15,3 +15,8 @@ php bin/magento setup:static-content:deploy
 ## Contribute
 
 Feel free to **fork** and contribute to this module. Simply create a pull request and we'll review and merge your changes to master branch.
+
+## About Codepeak
+
+Codepeak is a Magento consultant agency located in Sweden. For more information, please visit [codepeak.se](https://codepeak.se).
+
